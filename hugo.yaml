@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://ziren-zhou-personal-website.netlify.app/"
 languageCode: "en-us"
 title: "Ziren's Profile"
 theme: hugo-profile
@@ -144,7 +144,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/ziren_zhou_resume.pdf"
       download: true
       newPage: false
     socialLinks:
